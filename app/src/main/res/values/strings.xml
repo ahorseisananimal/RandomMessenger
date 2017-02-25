@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random Messenger</string>
+    <string name="new_letter">New Letter</string>
+    <string name="catch_letter">Catch a Letter</string>
+    <string name="new_letter_hint">Write your letter here</string>
+    <string name="send">Send</string>
+</resources>
